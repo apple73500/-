@@ -1,0 +1,118 @@
+Date and Time : 07/12/19 12:47:22
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING(ORCAP-1829): Possible pin type conflict IC1,XTAL2(PC0)  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (81.28, 165.10) 
+WARNING(ORCAP-1829): Possible pin type conflict ZU4,RESET  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (264.16, 195.58) 
+WARNING(ORCAP-1829): Possible pin type conflict ZU4,AVCC  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (264.16, 215.90) 
+WARNING(ORCAP-1829): Possible pin type conflict ZU4,VCC  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (264.16, 223.52) 
+WARNING(ORCAP-1829): Possible pin type conflict ZU4,GND  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (264.16, 226.06) 
+WARNING(ORCAP-1829): Possible pin type conflict ZU4,AGND  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (264.16, 218.44) 
+WARNING(ORCAP-1829): Possible pin type conflict IC1,AVCC  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (81.28, 177.80) 
+WARNING(ORCAP-1829): Possible pin type conflict IC1,PAD  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (81.28, 218.44) 
+WARNING(ORCAP-1829): Possible pin type conflict IC1,XTAL1  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (81.28, 172.72) 
+WARNING(ORCAP-1829): Possible pin type conflict X1,3  Output Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (233.68, 43.18) 
+ERROR(ORCAP-1628): Possible pin type conflict X1,3  Output Connected to Power
+                    SCHEMATIC1, PAGE1  (233.68, 43.18) 
+WARNING(ORCAP-1829): Possible pin type conflict IC1,RESET(PC/DW)  Bidirectional Connected to Output
+                    SCHEMATIC1, PAGE1  (81.28, 157.48) 
+WARNING(ORCAP-1829): Possible pin type conflict IC1,RESET(PC/DW)  Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (81.28, 157.48) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,OUT  Output Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (302.26, 40.64) 
+ERROR(ORCAP-1628): Possible pin type conflict U1,OUT  Output Connected to Output
+                    SCHEMATIC1, PAGE1  (302.26, 40.64) 
+ERROR(ORCAP-1628): Possible pin type conflict U1,OUT  Output Connected to Power
+                    SCHEMATIC1, PAGE1  (302.26, 40.64) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,3  Output Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (302.26, 45.72) 
+ERROR(ORCAP-1628): Possible pin type conflict U1,3  Output Connected to Output
+                    SCHEMATIC1, PAGE1  (302.26, 45.72) 
+ERROR(ORCAP-1628): Possible pin type conflict U1,3  Output Connected to Power
+                    SCHEMATIC1, PAGE1  (302.26, 45.72) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,3  Output Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (302.26, 45.72) 
+ERROR(ORCAP-1628): Possible pin type conflict U1,3  Output Connected to Output
+                    SCHEMATIC1, PAGE1  (302.26, 45.72) 
+ERROR(ORCAP-1628): Possible pin type conflict U1,3  Output Connected to Power
+                    SCHEMATIC1, PAGE1  (302.26, 45.72) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,2  Output Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (302.26, 45.72) 
+ERROR(ORCAP-1628): Possible pin type conflict U1,2  Output Connected to Output
+                    SCHEMATIC1, PAGE1  (302.26, 45.72) 
+ERROR(ORCAP-1628): Possible pin type conflict U1,2  Output Connected to Power
+                    SCHEMATIC1, PAGE1  (302.26, 45.72) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,OUT  Output Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (182.88, 55.88) 
+ERROR(ORCAP-1628): Possible pin type conflict U5,OUT  Output Connected to Output
+                    SCHEMATIC1, PAGE1  (182.88, 55.88) 
+ERROR(ORCAP-1628): Possible pin type conflict U5,OUT  Output Connected to Power
+                    SCHEMATIC1, PAGE1  (182.88, 55.88) 
+WARNING(ORCAP-1831): Unconnected pin X3,1 
+                    SCHEMATIC1, PAGE1  (320.04, 81.28) 
+WARNING(ORCAP-1831): Unconnected pin X3,2 
+                    SCHEMATIC1, PAGE1  (320.04, 83.82) 
+WARNING(ORCAP-1831): Unconnected pin X3,3 
+                    SCHEMATIC1, PAGE1  (320.04, 86.36) 
+WARNING(ORCAP-1831): Unconnected pin X3,4 
+                    SCHEMATIC1, PAGE1  (320.04, 88.90) 
+WARNING(ORCAP-1831): Unconnected pin X3,P$ 
+                    SCHEMATIC1, PAGE1  (309.88, 104.14) 
+WARNING(ORCAP-1831): Unconnected pin X3,P$1 
+                    SCHEMATIC1, PAGE1  (307.34, 104.14) 
+WARNING(ORCAP-1831): Unconnected pin IC1,(SS/PCINT0)PB0 
+                    SCHEMATIC1, PAGE1  (160.78, 175.26) 
+WARNING(ORCAP-1831): Unconnected pin IC1,(INT4/ICP1/CCLK0)PC7 
+                    SCHEMATIC1, PAGE1  (155.70, 182.88) 
+WARNING(ORCAP-1831): Unconnected pin IC1,(AIN0/INT1)PD1 
+                    SCHEMATIC1, PAGE1  (160.78, 215.90) 
+WARNING(ORCAP-1831): Unconnected pin IC1,(OC1A/PCINT8)PC6 
+                    SCHEMATIC1, PAGE1  (155.70, 185.42) 
+WARNING(ORCAP-1831): Unconnected pin IC1,(PCINT9/OC1B)PC5 
+                    SCHEMATIC1, PAGE1  (155.70, 187.96) 
+WARNING(ORCAP-1831): Unconnected pin IC1,(PCINT10)PC4 
+                    SCHEMATIC1, PAGE1  (160.78, 190.50) 
+WARNING(ORCAP-1831): Unconnected pin IC1,(AIN2/PCINT11)PC2 
+                    SCHEMATIC1, PAGE1  (160.78, 193.04) 
+WARNING(ORCAP-1831): Unconnected pin IC1,(RTS/AIN5/INT6)PD6 
+                    SCHEMATIC1, PAGE1  (160.78, 200.66) 
+WARNING(ORCAP-1831): Unconnected pin IC1,(OC0B/INT0)PD0 
+                    SCHEMATIC1, PAGE1  (160.78, 218.44) 
+WARNING(ORCAP-1831): Unconnected pin POWER,1 
+                    SCHEMATIC1, PAGE1  (256.54, 101.60) 
+WARNING(ORCAP-1831): Unconnected pin POWER,4 
+                    SCHEMATIC1, PAGE1  (256.54, 109.22) 
+WARNING(ORCAP-1831): Unconnected pin U2,NC/FB 
+                    SCHEMATIC1, PAGE1  (193.04, 96.52) 
+WARNING(ORCAP-1608): Net has no driving source SCK 
+                    SCHEMATIC1, PAGE1  (149.86, 53.34) 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections USBVCC 
+                    SCHEMATIC1, PAGE1  (71.12, 137.16) 
+WARNING(ORCAP-1600): Net has fewer than two connections SCK 
+                    SCHEMATIC1, PAGE1  (149.86, 53.34) 
+WARNING(ORCAP-1600): Net has fewer than two connections CMD 
+                    SCHEMATIC1, PAGE1  (139.70, 60.96) 
+WARNING(ORCAP-1600): Net has fewer than two connections AD5/SCI 
+                    SCHEMATIC1, PAGE1  (388.62, 177.80) 
+WARNING(ORCAP-1600): Net has fewer than two connections AD/SDA 
+                    SCHEMATIC1, PAGE1  (388.62, 180.34) 
+WARNING(ORCAP-1600): Net has fewer than two connections N37641 
+                    SCHEMATIC1, PAGE1  (264.16, 213.36) 
+WARNING(ORCAP-1600): Net has fewer than two connections GND_EARTH 
+                    SCHEMATIC1, PAGE1  (55.88, 71.12) 
+
+Checking For Unconnected Bus Nets
